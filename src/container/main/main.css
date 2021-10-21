@@ -1,0 +1,15 @@
+.LinearProgress {
+  margin: 30px 10px 10px 10px;
+}
+
+.MainDiv {
+  width: "100%";
+}
+
+.DeleteButton {
+  position: sticky;
+}
+
+.LoadingText {
+  margin-bottom: 50px;
+}
